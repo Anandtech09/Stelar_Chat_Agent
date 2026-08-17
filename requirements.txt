@@ -1,0 +1,11 @@
+streamlit
+google-genai
+agno
+mailtrap
+apscheduler
+python-dotenv
+ddgs
+requests
+beautifulsoup4
+pandas
+openpyxl

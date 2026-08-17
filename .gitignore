@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+consultations/*.txt
+!consultations/.gitkeep
+understanding.md
+saved_chats/*.json
+!saved_chats/.gitkeep
+saved_excels/*.xlsx
