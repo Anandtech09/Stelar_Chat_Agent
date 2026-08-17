@@ -19,7 +19,6 @@ stelar-interiors-ai/
 ├── scheduler.py                # Core Scheduler Module & Queue Manager
 ├── run_scheduler.py            # Standalone CLI 2:00 PM Mailtrap Batch Dispatch Daemon
 ├── test_mail.py                # Dedicated Mailtrap Email Diagnostic Script
-├── understanding.md            # Comprehensive project knowledge base & change log
 │
 ├── ui/                         # Modular UI Package
 │   ├── __init__.py
